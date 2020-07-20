@@ -1526,9 +1526,7 @@ figure {
 #logo{
   width:80px;
   height:auto; 
-  position: absolute;
-  top:-40px;
-  left:-20%;
+ 
   border-radius:20px;
 }
 
@@ -1536,9 +1534,7 @@ figure {
   #logo{
     width:50px;
     height:auto; 
-    position: absolute;
-    top:-40px;
-    left:40%;
+   
     border-radius:10px;
   }
 }
